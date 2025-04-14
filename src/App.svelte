@@ -73,7 +73,7 @@
       collaborative project from the <b>Ag & Water Desk</b> and the
       <b>Minnesota Star Tribune</b>, part of the series
       <a
-        href="https://agwaterdesk.org/2025/04/09/down-the-drain/"
+        href="https://agwaterdesk.org/2025/04/14/down-the-drain/"
         target="_blank"
         >Down the Drain: A watershed moment for America's greatest wetlands</a
       >.
